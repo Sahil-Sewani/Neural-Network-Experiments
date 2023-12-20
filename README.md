@@ -32,7 +32,7 @@ This repository contains code that explores various aspects of neural network ar
 ## Files Included
 
 - `neural_network_exp_raw_code.py`: Code for defining and training the neural network model.
-- `neural_network_experiments.py`: Code to experiment with varying numbers of layers and different activation functions.
+- `neural_network_experiments.py`: Code with example experimentation with varying numbers of layers and different activation functions.
 
 ## Usage Notes
 
