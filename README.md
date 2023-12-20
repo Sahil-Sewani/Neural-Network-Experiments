@@ -42,5 +42,3 @@ This repository contains code that explores various aspects of neural network ar
 ## Acknowledgments
 
 - This code is adapted from TensorFlow/Keras documentation and modified for experimentation purposes.
-
-Feel free to explore the code, conduct further experiments, and modify it according to your requirements.
